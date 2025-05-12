@@ -1,23 +1,23 @@
-# Week 1 – Survival with Clarity (May 6–12, 2025)
+# Week 1 – Grounding and Strategic Clarity (May 6–12, 2025)
 
 ## ✅ What Went Well
-- Created and launched the **Intrapreneur Undercover** GitHub project.
-- Printed and internalized the *Survival Guide* with personal modifications (v4).
-- Clarified boundaries: no personal time to compensate for organizational inefficiency.
-- Documented a clear, principled response strategy to below-inflation salary offers.
-- Began using camera-off meetings to reclaim focus time during shallow rituals.
+- Created and launched the **Intrapreneur Undercover** GitHub project to document learnings and strategies for working effectively in complex environments.
+- Finalized and printed a personal Survival Guide, tailored for thoughtful navigation of organizational structure and process.
+- Clarified personal time boundaries to support balance, sustainability, and high-quality contribution.
+- Drafted a values-based response strategy for navigating symbolic salary adjustments with integrity.
+- Made productive use of meetings by listening while engaging in value-driven focused work, when appropriate.
 
 ## 🧠 What I Learned
-- Truth-telling inside a broken system requires careful language and timing.
-- Passive-aggressive praise is risky — better to frame outcomes, not people.
-- Strategic silence with blockers preserves energy and prevents escalation.
-- ROI documentation isn’t for my current manager — it’s for my future leverage.
+- Communicating strategically inside a large organization often requires thoughtful framing and timing.
+- It's more effective to focus on constructive outcomes rather than individual behaviors.
+- Minimizing unnecessary back-and-forth helps preserve energy for meaningful results.
+- Keeping a private log of progress and impact is helpful for long-term development, even if it's not immediately recognized.
 
 ## 🧭 Focus for Next Week
-- Create and use the **Impact Log** template with Copilot at work.
-- Add personal 1/10/20-year goals to the GitHub repo in `docs/goals.md`.
-- Start `/weekly-checkins/week-02.md` log and structure.
-- Draft first Sprint Review slide that shows “quiet wins” without triggering politics.
+- Create and begin using an **Impact Log** to track contributions and outcomes.
+- Add personal long-term goals (1/10/20-year horizon) to the GitHub project in `docs/goals.md`.
+- Set up Week 2 check-in and continue refining structure and habits.
+- Prepare a simple, clear slide for Sprint Review that highlights team-aligned wins.
 
-## 💬 Quote of the Week
+## 💬 Reflection of the Week
 > “Operate with clarity. Follow rules smartly. Own your time and value.”

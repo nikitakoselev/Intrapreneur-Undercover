@@ -1,41 +1,43 @@
 # 🕶 Intrapreneur Undercover: Survival Guide
 
+This guide is designed to help individuals working in complex or process-heavy environments stay grounded, effective, and aligned with personal values.
+
 ## ✅ What To Do
-- Attend rituals, camera off if needed.
-- Comply outwardly. Win silently.
-- Track delivery friction privately.
-- Use safe language.
-- Redirect tasks by referencing 'alignment with priorities.'
-- Let others shine.
+- Participate in required rituals while maintaining personal focus where possible.
+- Follow established processes outwardly while quietly improving flow where feasible.
+- Track delivery patterns and areas of friction for future improvement.
+- Communicate using neutral, non-triggering language.
+- Let others shine—focus on impact, not credit.
 
-## 🧭 Priority Mapping
-- Watch for fast reactions.
-- Follow the money.
-- Track changes that lead to real outcomes.
+## 🧭 Mapping Priorities
+- Observe what receives fast leadership responses.
+- Focus on actions that reduce risk, cost, or support burden.
+- Track deliverables that lead to decisions or unblock others.
+- Avoid noise: tasks that don’t change systems or decisions.
 
-## ❌ What To Avoid
-| Bad Phrase | Safe Reframe |
-|------------|--------------|
-| "X isn’t helping" | "Coordination is stretched" |
-| "Technical debt" | "Delivery friction" |
+## ❌ Safer Reframing
+| Original | Reframe |
+|----------|---------|
+| “This process is broken” | “There may be opportunities to improve time-to-value.” |
+| “This slows everything down” | “We’re seeing delivery friction here.” |
 
-## 📎 Response Template
-> “Happy to support — if this aligns with team priorities, I’ll make space.”
+## 📎 Example Reply for New Requests
+> “Happy to support — if this aligns with team goals, I’ll make space.”
 
-## 🗂 Track Privately
+## 🗂 Impact Log Template
 | Date | Task | Action | Outcome | Value | Notes |
 |------|------|--------|---------|-------|-------|
 
-## 🏢 Office Strategy
-- Check in/out only.
-- Use early hours for OSS.
-- Work 7 hours max.
-- No personal time for broken systems.
+## 🏢 Working On-Site
+- Use early office hours for personal development (e.g. open-source).
+- Work designated hours with focus. No need to overextend.
+- Follow policies fully—while using personal time for personal growth.
 
-## 🔇 Minimum Necessary Interaction
-Limit comms with blockers. Ask for alignment, not permission.
+## 🔇 Thoughtful Boundaries
+- Minimize interactions that routinely create ambiguity or stress.
+- Engage when needed, but reserve energy for where you can contribute best.
 
 ## 🎯 Long-Term Goal
-- Log patterns.
-- Deliver quiet wins.
-- Build external leverage.
+- Build quiet systems of effectiveness.
+- Create visible and invisible wins.
+- Prepare for long-term alignment and opportunity.
